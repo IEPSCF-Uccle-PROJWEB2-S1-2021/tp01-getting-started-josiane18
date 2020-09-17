@@ -9,23 +9,27 @@
 
 ## Nom
 
-Skywalker
+Mutwarekazi
 
 ## Prénom
 
-Luke
+Josiane
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Josiane.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+J'aime bien l'informatique.
+Je n'aime pas de stress. 
+J'aime résoudre des problèmes.
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+Je suis ravie de voir ce cours avec vous.
+Je suis ponctuelle au cours.
+J'ai jamais programmer.
+
+J'espère que je réussirai ce cours.
+
+
+
