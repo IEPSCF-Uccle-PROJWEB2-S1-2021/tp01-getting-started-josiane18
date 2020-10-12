@@ -22,7 +22,7 @@ Bonjour,
 Je m'appelle Josiane.
 
 J'aime bien l'informatique.
-Je n'aime pas de stress. 
+Je n'aime pas le stress. 
 J'aime résoudre des problèmes.
 
 Je suis ravie de voir ce cours avec vous.
@@ -30,6 +30,5 @@ Je suis ponctuelle au cours.
 J'ai jamais programmer.
 
 J'espère que je réussirai ce cours.
-
 
 
